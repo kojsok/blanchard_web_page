@@ -1,5 +1,5 @@
 Посмотреть тут: https://kojsok.github.io/Blanchard/
-Финальный проект по курсу Веб вертска. 
+ Финальный проект по курсу Веб вертска. 
 Верстка макета-"Бланчард" с использованием HTML,CSS
 - использование Flexbox
 - адаптив под мобильные устройства
@@ -14,4 +14,4 @@
   <li>Кроссбраузерность - корректное отображение страницы в Chrome, Firefox, Opera, Safari, Edge последних версий</li>
 </ul>
 
-![1920](https://kojsok.github.io/Blanchard/blanchard.png)
+![1920](https://kojsok.github.io/Blanchard/Blanchard.png)
